@@ -110,7 +110,7 @@
 				TargetAttributes = {
 					2D72C8231E7BAB1A00718EB2 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 42572F97Z7;
+						DevelopmentTeam = 4ZLPTK9YSV;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -273,8 +273,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 42572F97Z7;
+				DEVELOPMENT_TEAM = 4ZLPTK9YSV;
 				INFOPLIST_FILE = chiken/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.net.ryh.www.shuaidong.chiken;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -285,8 +286,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 42572F97Z7;
+				DEVELOPMENT_TEAM = 4ZLPTK9YSV;
 				INFOPLIST_FILE = chiken/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = cn.net.ryh.www.shuaidong.chiken;
 				PRODUCT_NAME = "$(TARGET_NAME)";
